@@ -322,6 +322,45 @@ painting until it becomes more important. Cost and interest drive prioritization
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Cautionary tale: Literal fulfillment
+--------------------------------------
+An enterprise news publishing company has articles listed throughout the site. Each article had a category and would be listed on each category page, as well as the homepage. 
+This is standard for many sites with content management systems. One of the normal requirements was editorial control over placement of content. 
+
+Things got complex with the requirements for arbitrary placement of articles in any part of the site. For example, the first and second articles were by date but the third was manually 
+placed. On another page, the top listing was automatic. So we built the data structures and the interface. Next, we adapted everything that displayed content to use the new sorting 
+mechanism. In fact, it took us into launch to get all the bugs worked out, but it all worked. Editors had full control over all the items. 
+
+Was this success? We completed the task but it had a very high cost. Other features lost priority and weren't worked on. By implementing this feature, we introduced technical debt. 
+
+We now had to maintain the new interface and every single content listing had to have that custom sort. In hindsight, what should we have done? Instead of a whole new interface and data 
+structure, the practical solution would've been a sticky flag. What does that do? It's a bullion property, defaulting defaults or zero. When you display content, you sort by sticky, then 
+by date. It would've taken minutes to put in place. How does this cautionary tale relate to estimation and prioritization? Had we estimated the cost and risk, we could have avoided the 
+technical debt. Sort prioritization is logical, but the way we went about it wasn't. The lesson is to determine the effort, risk and prioritization. 
+
+If something is a high priority and the effort and or risk it too high, think of other approaches that fulfill the intent of the requirements. Try to find a compromise that balances the 
+need of the customer and the cost to build.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
