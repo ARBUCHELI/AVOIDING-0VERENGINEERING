@@ -205,6 +205,34 @@ Sit first, dash seven.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Analyzing the request
+-----------------------
+When we're faced with a new challenge, here's some questions we can ask to avoid confusion and wasted effort. First, what's the end goal of the request? This is different from describing 
+how to do something. For example, a good goal could be to feed 10 people and meet their dietary restrictions by 5:00 PM. A bad example would be to make 10 sandwiches. 
+That's not a goal, that's a way to achieve a goal. We can end up with a pile of 10 peanut butter sandwiches. 
+
+That would fulfill the request, but someone with peanut or wheat allergies couldn't eat them. I found the SMART framework for goal setting is very useful. SMART is an acronym where the 
+goals are S for specific, M for measurable, A for attainable, R for relevant, and T for time-bound. 
+
+Even if you don't SMART exactly, the framing can help improve how you think about goal setting. Another question is, who needs this feature? If there's an audience of 100 people, but only 
+one person needs a thing, do we really need it? Should the interface be usable to anyone without training or are only experts using it? When learning about the audience, it's good to know 
+the source of information. Someone who says "Everyone wants this" may not be speaking for the whole group. Trust, but verify. 
+
+Knowing the audience guides decision making and informs the interface and user experience. Why is this feature needed? Several people asked for it, but does it have a practical use? Does 
+it contribute to the main goal? Just because you can do something doesn't mean you should. If you're unsure, consider not doing something and any potential consequences. 
+
+If you can achieve the goal without it, was it even necessary? Is this only way? There's usually more than one way to solve a problem. If a request is too specific, then it may exclude 
+other viable solutions. If you're not evaluating options, consider the cost of each, including complexity and time. 
+
+Avoid the not-invented-here attitude by being open to options and opinions outside of your own. Finally, what data backs up the request? Assumptions aren't the same as hard data so make 
+sure there are facts that drive your decisions. The history of those facts also matters including how much you can trust the source. 
+
+Was it a vendor trying to upsell? A casual search engine result? A random relations teenager who could build it in an afternoon? To review, what are the goals? Who needs this feature and 
+why? Is this the only way to achieve the goal? What data supports this understanding and where did it come from? Answering these questions at the outset can save a lot of headaches later 
+in the project.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
