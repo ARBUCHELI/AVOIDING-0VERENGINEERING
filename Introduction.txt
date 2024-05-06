@@ -1,0 +1,18 @@
+# INTRODUCTION
+--------------
+
+* Avoiding overengineering
+--------------------------
+Building something that people need is different from making what they asked for. Engineers don't like to say no, and pride makes it difficult to back down. Decision makers don't always 
+have the context to know how complex implementation is. An offhand request can add weeks or months to a project. We're limited by our perspective. So how do we recognize what is 
+practical? The goal shouldn't be to say no; it should be to empower. 
+
+I'm Jon Peck, a software engineer and educator. This audio course is a mixture of case studies and real world 
+strategies. From skyscrapers to cubicles, startups to enterprise, agencies and higher ed, the song remains the same. Between the tales of woe and success, we'll explore the definition and 
+history of over-engineering. We'll discuss ways to focus feature development and manage expectations. How can we deliver value without compromising effectiveness? Welcome to Avoiding 
+Over-Engineering.
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
