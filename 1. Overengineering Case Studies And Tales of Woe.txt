@@ -282,7 +282,45 @@ give relevant feedback. The sooner you can get to that state, the sooner you can
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Estimation and prioritization
+-------------------------------
+Projects of any size have common boundaries, including goals, scope, budget, and resources. Before we can start building a project, how can we plan the work that stays within those 
+boundaries? The project management process of estimation and prioritization helps make those plans. This isn't a formal breakdown of any particular project management strategy. 
 
+Instead, I'm describing some practical and common tasks across many successful projects. This type of planning is a collaborative effort between the product manager and the technical 
+lead. A budget represents the cost, which includes both money and time. Cost estimation can come from time estimation given an hourly rate. 
+
+Therefore, knowing how long something will take can help estimate the actual monetary costs. Resources are the people and tools available to complete tasks. People can have a cost if they 
+have an hourly rate and have boundaries, such as their expertise or time. Tooling also has licensing cost, either commercial services or open source. 
+
+I'm a proponent of opensource software, which people think of as free. The cost of open source software is time, given the often variable levels of support. Using open source software 
+offsets the cost of buying a product or service outright, but instead takes time to build and maintain. 
+
+You should also be contributing back to the ecosystem, either in the form of issues, poll requests, and other types of participation. 
+
+So that brings back into question, how do we estimate the time? Break individual goals into discreet pieces of work with their own requirements and acceptance criteria. 
+
+If an individual task is too complex, continue to break it down until you have a collection of smaller tasks. For each task, estimate the effort. 
+
+This can be a rough estimate of hours, or something more informal such as shirt sizing, small, medium, and large. Regardless of how, stay consistent. 
+
+Take those same requirements and features and do a prioritization exercise. Based on the knowledge of the product and the stakeholders, how important is each feature? There's more than 
+one way to do this. Ranked lists work where a top priority is one, the next is two, and so forth. That can be daunting if there's a lot of features. 
+
+Like shirt sizing, high, medium and low priority also works. This is a good exercise for the actual stakeholders or target audience as well. What's more important, thing A or thing B? 
+Risk evaluation can also be part of the estimation process. Consider both the risk of not implementing something and the risk of the unknown. 
+
+For example, if you only know a little about how to do something, then it would be a higher risk than something you were certain of. Given effort, risk, and prioritization, you can make 
+informed decisions about what to do. High effort, high risk, and low priority means it likely won't happen. You may be thinking my project is too small to do this. 
+
+You're the best judge of that, not me. The framing of estimation and prioritization can be simple and fast if you want it to be. For example, let's consider household chores. 
+
+Putting an another coat of paint on the basement steps would look nice, but it's going to take a couple days and cut off access to the basement for the duration. 
+
+Shoveling snow on walkways outside takes less time, mitigates risk, and takes less effort. I rank not falling over pretty steps, so I'll do the shoveling first, and will hold off on 
+painting until it becomes more important. Cost and interest drive prioritization. Before you start work, do some estimations and make informed decisions.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
