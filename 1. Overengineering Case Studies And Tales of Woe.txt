@@ -370,6 +370,31 @@ Get the product into a state where it's touchable enough to show off a workflow 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Cautionary tale: It’s not ready
+---------------------------------
+The team had been working on a website project for many months. Most of the main pages were complete. We'd migrated most of the content from the existing site, so there weren't 
+placeholders. The front-end design looked quite close to the wireframes. The whole build team was ready to demo because we wanted feedback, yet the client representative would take a 
+quick look, then say, "It's not ready to demo to stakeholders yet." This was frustrating and demoralizing. We'd ask questions about what we had to finish so we could demo. 
+
+We'd complete a feature, fix a bug, and show real-world content and still get the feedback that it wasn't ready. Then came a dawning realization about what the root cause was, the 
+navigation. The pages themselves worked, but the navigation system was broken and filled with placeholders. The work to finish navigation took about a day to complete. 
+
+And at the end, it looked exactly the same, but it worked. We asked again to demo, but this time, we showed off the navigation. The client rep loved it. 
+
+You could go back and forth between pages and have an actual workflow rather than looking at single pages in isolation. Looking back, there were two problems we faced. 
+
+The primary problem can be summarized with a joke. Doctor, every part of my body hurts when I touch it. Ah, you have a broken finger. The broken top-level navigation was on every page. 
+
+Therefore, the perception was that every page is broken. We solved the common problem, which affected the whole site, which restored confidence. The other problem was not considering a 
+complete workflow. We wanted to demonstrate but instead focused on individual features. We should have prioritized common features and the practical experience of a real user. 
+
+Having the product ready for feedback is not a binary state, whether it's ready or not. Consider it more from the perspective of readiness. If it seems ready, it is. If something is 
+obviously broken, address it so it doesn't distract your audience.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
