@@ -257,6 +257,31 @@ Finally, a one-size-fits-most approach means there will be some exceptions and e
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Building a minimum viable product
+-----------------------------------
+When working on a large project, it's important to get into a cycle of iterative development as soon as possible. If you don't, there can be a gap between expectations and the deliverable.
+By showing your in progress work on a regular basis and gathering feedback, you can react and build trust in the product. 
+
+At the beginning of the project, foundational work doesn't give us much to look at. Features are prioritized and added and the system becomes usable for some small or partial tasks. 
+
+When is the right time to start demonstrating? Enter a minimum viable product. A minimum viable product, or MVP, is a product which has just enough features to be usable by early 
+customers to gather validated learning about the product and its continued development. A MVP is the basis of iteration and drives the conversation. 
+
+When is a product minimally viable? It depends on the feature or product. What's the most basic task that you can accomplish? For example, if you need authentication, can you both succeed 
+and fail at logging in? If it's like a blog or a news page, can you read the content and know who wrote it and when? When presenting a MVP, be upfront about the completion state. 
+
+There's no need to be defensive so say it's a work in progress. "Here's what's done "and the next steps are going to be X, Y, and Z." There can be multiple MVPs within a project because 
+there are multiple feature within the project. There's no need to wait for every single feature to be in a presentable state before starting to get feedback. 
+
+One of the points of a MVP is avoiding perfection paralysis. When you work towards completion, there's no sense in waiting for perfection before asking for opinions. That's when you end 
+up with mismatched priorities and differences in subjective opinions. Get feedback early and often. When you do start showing an MVP, continue to provide iterations and improvements. 
+
+People like acknowledgement and to have their feedback heard and incorporated. You don't have to do everything brought up in a product review. That's not efficient. On the other hand, if 
+you never show improvements, you instead build the perception that this isn't a feedback loop. The point of a minimum viable product is to get the feature to where someone can use it and 
+give relevant feedback. The sooner you can get to that state, the sooner you can iterate and build confidence in what you're building.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
