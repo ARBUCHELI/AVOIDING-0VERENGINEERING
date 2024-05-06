@@ -115,6 +115,58 @@ safety or medical devices.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Cautionary tale: I don't like this wheel
+------------------------------------------
+The project was to build a publishing platform using a common open-source content management framework. The advantage of using the framework was that there were many off-the-shelf 
+components. If you needed a particular functionality, chances were that there was already a solution. Editors needed to choose the layout for a given document: one page might need a hero 
+image at the top, another may have links to related content and so forth. 
+
+It's a pretty common need, and there's a third party project that does exactly that: the project provided layout, high performance caching and standardized integrations. 
+
+We wrote up the proposal, including this component. The client had an interesting wrinkle: a technical oversight committee. 
+
+Their goal was to standardize, use best practices, and make sure the company used the best tools. In practicality, these good intentions turned into arbitrary gatekeeping. Upon review, 
+they denied the use of the project because it would introduce slow performance; instead, we were to use an in-house tool that was being written as a reimplementation. 
+
+The third-party tool could create slow sites, but only if it was misconfigured and left in development mode. This concern was like saying, "We shouldn't use a knife because it could hurt 
+someone if it was backwards." We objected but were overruled. So we used the in-house tool without a community of thousands of engineers and testers. 
+
+Throughout the rest of the project, we spent countless hours extending, debugging, and creating workarounds for this in-house tool. For this and similar reasons, the project ended up not 
+shipping. This experience was an example of reinventing the wheel; this expression means to waste a large amount of time or effort in creating something that already exists. 
+
+In this case, the third-party project was the wheel. This was also a case od have not invented here: the cultural tendency to avoid using or getting knowledge of our products from 
+something external. This attitude can stifle collaboration as well. For example, if there's a standard and you don't like it, instead of improving the standard or learning more about it, 
+you make your own. Now, there's two competing standards which may not be a bad thing until there's a dozen standards. 
+
+There can be value in doing something yourself instead of using something off the shelf. Understand that there can be a great cost if you aren't completely certain. The risk may be worth 
+it, so make an informed decision.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
