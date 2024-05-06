@@ -1,0 +1,21 @@
+# 1. OVERENGINEERING CASE STUDIES AND TALES OF WOE
+--------------------------------------------------
+
+* What they wanted isn't what they needed
+-----------------------------------------
+A web developer is looking for work. In the neighborhood, there's a new specialty store and they don't have a website. So they reach out. Sounds like a good fit. The owner wants to 
+advertise their specials, start a blog about the business and show off the space. There's pages upon pages of requirements and they want to do. 
+
+Sounds fantastic. And there are web frameworks that will do everything they need. Here's the hourly rate, agreed. Here's the deliverables and design and everything sounds good. Days, 
+then weeks pass, the site is built with most of the controls and customizations the customer asked for. The owner is happy and cuts a check, and the web developer happily cashes it. 
+The domain is advertised and everyone lives happily ever after. Except, the site is stagnant. 
+
+The specials aren't getting updated. The blog has a couple entries and nobody's commenting on them. There's a large number of third party modules in the site and maintenance is becoming a 
+hassle. Looking at the analytics, people aren't so much bouncing, as just not coming. A few months pass, the site is the same. 
+
+A year or two passes and the business closes, and the site is quietly retired. What did the business ask for? A complicated website with lots of bells and whistles. 
+
+What did they need? Probably just a social media page. At the end of the day, the service provider did what the customer wanted, but it wasn't what they needed.
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
