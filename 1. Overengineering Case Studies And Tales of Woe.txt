@@ -496,6 +496,68 @@ changes. Rewriting or refactoring without tangible impact doesn't help the proje
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Slippery slope: Premature and micro-optimizations
+---------------------------------------------------
+Everyone wants applications to be fast as possible because delays lose customers and interest. Performance is both quantifiable and subjective, influenced by many different factors. 
+
+If the underlying program is slow, that impact is multiplied throughout. It's always worth being mindful of performance. Here are some over-engineering pitfalls of performance 
+optimizations to keep in mind. Premature optimization is the act of attempting to make things more efficient too early in the development process. 
+
+Donald Knuth, an American computer scientist, mathematician, and professor emeritus at Stanford University, wrote the following on the subject of premature optimization. 
+
+"We should forget about small efficiencies, "say about 97% of the time. "Premature optimization is the root of all evil. "Yet, we should not pass up opportunities "in that critical 3%. 
+
+"A good programmer will not be lulled into complacency "by such reasoning. "They will be wise to look carefully at the critical code, "but only after that code has been identified." 
+
+Premature optimization can be a divisive topic. Taken out of context, the root of all evil part can be used to squash any attempt to optimize. 
+
+Overreactions can lead to too much optimization with too little value to the customer. Programmers should be aware of and avoid common bottlenecks when balancing delivering features. 
+
+You can have the fastest system in the world, but if it doesn't do what your customers need or want, they'll go elsewhere. Instead, dedicate time to optimization after building major 
+deliverables and identifying targets. Micro-optimizations can also be controversial. Micro-optimizations are a set of changes intended to improve performance but not change the system 
+design or architecture. They can be arbitrary, such as different operators or ways of processing data structures. 
+
+There are benchmarks of the fastest, language-specific ways to perform tasks. The catch about micro-optimizations is that their impact is often very small, sometimes down to the 
+nanosecond. If you're writing a system needing to process thousands of transactions per second, those differences add up. 
+
+If you're writing a web application with an audience of hundreds, then an arbitrary difference in string concatenation isn't going to improve their experience. Refactoring a code base to 
+use four instead of four each will likely not do anything except waste time and make the code harder to maintain. Is a for loop faster? Usually. Is it worth it? Very doubtful. 
+
+When looking for areas of optimization, start with hard data. Use a profiler or benchmarks of some sort and find the slowest parts of your application. Inefficient database queries, 
+repeated uncashed network calls, and errors will have a much greater impact on performance. Do optimize your application when you know the areas of most impact and what value in 
+optimization will bring.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
