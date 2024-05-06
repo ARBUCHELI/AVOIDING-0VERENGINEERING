@@ -393,6 +393,67 @@ obviously broken, address it so it doesn't distract your audience.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Did I really need to do that?
+-------------------------------
+When working on something, the urge to clean up and improve is strong. We want to make things better as we're working which can have unintended consequences. It's easy to get distracted 
+when working on projects especially if the work is tedious or frustrating. Software engineers have many opportunities for distractions within the scope of developer experience. 
+
+This refers to the interactions and feelings developers have when they're working on a problem. Ease of use, efficiency, and utility are all parts of developer experience. 
+
+There are mantras that support developer experience. There's DRY, don't repeat yourself. And KISS, keep it short and simple. Developer experience is important as it often is a 
+representation of the amount of friction felt when working. Yet improving developer experience comes with a cost as well. 
+
+Developer experience isn't the same as user experience, thus efforts to improve the developer experience aren't always perceptible to the user. 
+
+If you don't address concerns with developer experience then the system may be less efficient and harder to work with. Take perception into consideration as well. 
+
+If an engineer doesn't want to work on a system because they feel it's difficult, they may not be doing their best work. Let's consider the impact of a refactor to conform to a coding 
+standard. If the process is automatic it can take seconds to execute and commit. The cost, in this case, is the changed history for every line changed. 
+
+If mixed with actual functional changes then a noisy code review may obscure a defect that otherwise would've been obvious. A manual refactor also takes time and can lead to a situation 
+where a working system starts behaving in subtly unexpected ways. If there wasn't test coverage in an affected area, then it may take weeks or even months before the damage becomes 
+visible. There is absolutely a case for improving developer experience and for refactoring a problematic piece of code. 
+
+Sometimes a system built piece by piece becomes inefficient and complicated. A refactor may reduce complexity and execution time and therefore improve developer experience. 
+
+When considering a refactor or cleanup be mindful of the cost to benefit ratio and the intended audience. Spending hours making changes that have no tangible impact on the system may not 
+be the best priority. Change for the sake of change is rarely welcome so have a clear understanding of the intent and expected outcome. 
+
+Avoid creating artificial challenges such as an arbitrary change to a coding standard in the middle of a project. Improving code health should be a continuous and iterative process with 
+small steps along the way. Try to build a mindset of continuous improvement over time which should reduce the need for sweeping changes.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
