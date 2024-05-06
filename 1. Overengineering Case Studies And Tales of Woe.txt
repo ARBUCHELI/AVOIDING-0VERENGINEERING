@@ -424,6 +424,29 @@ small steps along the way. Try to build a mindset of continuous improvement over
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Slippery slope: Version updates
+---------------------------------
+One of the forms of technical debt is making sure that project dependencies are current. What's the right balance between staying current and a fool's errand? Software is often composed 
+of dependencies combined with custom code to solve problems. Dependencies are maintained separately, often by a third party. Active projects go through revisions, both major and minor. 
+
+Inactive projects sometimes disappear completely, leaving teams scrambling to find a mirror or a replacement. Most package managers have a way of telling an engineer when an update is 
+available. Sometimes it's during installation, shown as an often ignored warning. Other systems will actively send an email or notification when an out of date version is found. 
+
+When is it appropriate to update dependencies and software packages? Given that there's many different scenarios, the answer is: it depends. Always apply security updates, regardless of 
+whether you feel it applies to you. If you think it's out of scope, consider whether you actually need the dependency at all and verify if it's even in use. 
+
+Removing an unused module instead of updating it is a best practice. If there's a bug fix, consider whether it applies to your system. If it doesn't, it can wait. 
+
+If it's adding functionality, do you need the new features? If it's a major release with breaking changes, what's the upgrade path and what impact will it have? Generally, it's best to 
+get into a cadence of incremental updates when it's convenient and testable. Test any new features and changes and upgrade if you need them. Stay current with whatever the stable major 
+version is because catch-ups can be disruptive. If there's a project that is in maintenance mode, consider a scheduled build to ensure that your project still works. 
+
+This helps avoid a situation where you need to make a change, but a package is broken, leaving you with a bigger problem. In short, apply security updates promptly and keep everything 
+else that you need up to date only when it's convenient and testable.
+
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
