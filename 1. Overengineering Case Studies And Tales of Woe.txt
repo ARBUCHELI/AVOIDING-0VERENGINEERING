@@ -529,7 +529,18 @@ optimization will bring.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Not an excuse to say no
+-------------------------
+Throughout this course, we've explored many concepts, case studies, tales of whoa, and success. From Rube Goldberg satire through Zen koans, it's good to be mindful of what can lead to 
+over-engineering. Avoiding over-engineering is never an excuse to arbitrarily say no. Instead, ask questions and provide alternative solutions that can achieve better results. 
 
+At the end of the day, you and your team should be finding solutions, not roadblocks. I hope you've found a framework through this course upon which you can help guide decision making and 
+avoid the mistakes I've made. I appreciate your time and interest in learning. Life is too short to be content with what we already know. 
+
+I'd like to thank the wonderful and patient production team for all their hard work behind the scenes. Finally, thank you to my family and friends for their love and tolerance, including 
+when I put acoustic paneling in the old laundry closet. Please, take a moment to give feedback through the course homepage. 
+
+It will help make future courses better. And we'd love to hear from you. Thanks for listening.
 
 
 
