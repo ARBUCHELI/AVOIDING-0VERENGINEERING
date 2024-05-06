@@ -233,6 +233,56 @@ in the project.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Success story: Do we even need to do it?
+------------------------------------------
+One of the tasks of the front end of a website is to ensure cross-browser compatibility. The site should work and have a consistent look and feel across different browsers. 
+
+We had to test Chrome, Firefox, Safari, and at the time, Internet Explorer. This is time-consuming, but to maximize accessibility, you want the audience to be able to use the site. 
+
+The project goal was to update the front end of the site to use a new layout. One of the front end engineers assumed we needed to support older versions of internet Explorer, because, 
+well, we always had. That put constraints on what tools we could use, how we wrote code, and which libraries we could use to save time. 
+
+Of course, there were shims or tools that provided compatibility for older browsers. Those shims added overhead and another source of potential failures and troubleshooting. 
+
+As a team, we thought about the browser support some more. That old version of Internet Explorer was last updated several years ago. Microsoft had been pretty aggressive in its campaign 
+to get people to upgrade. How many people actually use that version to access our website? We checked our site analytics. 
+
+Less than 3% of our audience did. We took that data to our stakeholders and made the case for ease of growth and maintenance for the 97% of our site users. 
+
+The need for cross-browser compatibility was changed. To our relief, it now excluded that ancient version of Internet Explorer. That gave the team the current generation tooling and 
+simplified the build. There are a few takeaways here. First, because we've always done a thing doesn't mean we still need to do it. There may have been very good reasons, but those 
+reasons may no longer be valid. Second, support your decision-making with hard data. If 20% of the audience used the site with that browser version, we would have supported it. 
+
+Finally, a one-size-fits-most approach means there will be some exceptions and edge cases, but the vast majority of your users won't have any concerns. Find a practical solution.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
