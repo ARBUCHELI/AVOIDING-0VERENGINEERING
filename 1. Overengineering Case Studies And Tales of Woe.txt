@@ -447,6 +447,57 @@ else that you need up to date only when it's convenient and testable.
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Test coverage is a panacea
+----------------------------
+And often held, but mistaken belief is that 100% test coverage means that software is perfect. Let's start with what 100% even means, because software testing has many layers. 
+
+Unit testing tests a completely isolated piece of code via its application program interface. Functional tests check specific features and compare results against the creating 
+specification. Integration testing combines units and tests the resulting combinations. System testing exercises the complete system, including the application itself and the hosting 
+environment. With all that in mind, is it practical to strive towards 100% test coverage? Between unit and functional testing, 100% test coverage is possible, and in some situations, 
+desirable, yet 100% test coverage does not mean that your application is bug free, especially if you designed your test to conform to the buggy application 100% test coverage does not 
+mean that you wrote good tests. It means that your tests don't fail. 100% test coverage could mean that your tests were not isolated, so unexpected behavior could still occur. 
+
+What about integration and system testing? Those are harder to measure coverage. Instead, you need to consider effective coverage, which involves knowledge of the product. What are the 
+mission-critical workflows? What's used the most and what will have the most impact? It's best to find a balance between the various types of tests. 
+
+The more effective coverage, the better. Test coverage is useful for finding when your software is deviating from expectations. It doesn't prevent those expectations from being wrong. 
+
+If you find yourself striving towards 100% test coverage with a system that doesn't involve life and death safety, ask if this is the highest priority. A user of a system can't use 100% 
+test coverage because it does not deliver new functionality. Do test and maximize your effective test coverage. Reconsider spending time to arbitrarily get from 80 to 90% unit test 
+coverage when key workflows are unfinished.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
