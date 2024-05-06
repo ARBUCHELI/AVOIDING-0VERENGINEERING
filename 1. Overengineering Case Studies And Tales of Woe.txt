@@ -343,7 +343,32 @@ need of the customer and the cost to build.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Tangible iteration
+--------------------
+So far we've been discussing going too far with over-engineering and overbuilding. We've made the case to demo as early as possible to get feedback. There's another variation in the other 
+extreme which can also be problematic. If there isn't enough to show in a usable workflow, then you can't get relevant feedback. 
 
+Without feedback, you can't iterate and you can end up building something that isn't wanted. Iteration only works if you have something to iterate upon. 
+
+That sounds easy to say, but what does having something iterable mean? Iteration communicates by having something tangible, which means touchable. 
+
+With software, that translates to being able to have a meaningful workflow that can be used. It doesn't have to be complete or complex. For example, a workflow could be to use a menu and 
+choose something, change an option, and see the result. There can be place holders, other broken menu links, unsolved messages, and so forth. 
+
+If you stick to the workflow, everything should work without exploding. This isn't about smoke and mirrors and pretending things aren't more complete than they are. 
+
+Quite the opposite. Be transparent about what's not complete, but not to the point of defensiveness. Of course, it's a work in progress so set clear expectations. 
+
+When demoing, have a safe script that you can stick to. If something is flaky, consider omitting it to cut distractions. Have you seen a video game demo of a work in progress at a trade 
+show? Sometimes only a company representative is playing or there's only one playable level. Chances are that there's a lot of things that aren't complete. 
+
+That's good though because the public gets to see their work and progress and give feedback. Because it's incomplete, there's still an opportunity to iterate. 
+
+Demos are often held together with duct tape, wires, and hope. Effective demos show enough to have a reaction, to give feedback, and to provide a basis for iteration. 
+
+Get the product into a state where it's touchable enough to show off a workflow and you'll get good feedback before it's too late.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
