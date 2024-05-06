@@ -468,6 +468,34 @@ coverage when key workflows are unfinished.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Cautionary tale: What did we optimize?
+----------------------------------------
+Code health is a measurement of how easy it is to maintain, alter, and repair code. It's one of the aspects of developer experience, which we discussed. There's many ways to determine 
+code health, including the use of linters. A linter is a static analysis tool that finds defects, style problems, and potential bugs. 
+
+On a particular project, we had included linter, but it wasn't running automatically, an oversight. We ran the linter on the code base and discovered a big list of all the problems. 
+
+This included critical errors, warnings, and stylistic problems. The good thing about Linters is that they provide actionable feedback. Cars and other vehicles have a system of lights to 
+show problems. Sometimes, they'll indicate low tire pressure, low gas, and so forth. Those are warnings, not an emergency, but something that should be fixed when you get a chance. 
+
+When the check engine light comes on, that's a major problem that should involve a mechanic. If you don't take care of it, something bad can happen. 
+
+The linter, like an old car, was flashing all the vehicle indicator lights, from low blinker fluid levels to a flat tire, pull over the car now. 
+
+One of the engineers rolled up their sleeves and got to work. A couple weeks later, they completed the repairs. To our surprise, they rewrote the entire code base. 
+
+To their credit, the linter ran and showed no errors, warnings, or stylistic problems. Instead, we had a myriad of little bugs in changes in behavior with no new functionality to show for 
+it. It was difficult to see the history of the code with the monumental change. This system worked at about the same speed as before. 
+
+So, we couldn't even claim a performance optimization. We had nothing user facing to show for the hard work, which the client wasn't particularly happy about. 
+
+What should have happened was to address the critical errors first, clean up the warnings over time with an IDE configured to highlight problems. 
+
+Empower engineers to leave any code they touch better than they found it. Stylistic changes like tabs to spaces should be corrected in a separate automatic sweep to avoid functional 
+changes. Rewriting or refactoring without tangible impact doesn't help the project and can come at a big cost.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
