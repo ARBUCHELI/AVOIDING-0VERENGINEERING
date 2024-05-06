@@ -180,6 +180,31 @@ how and why these situations happen, we can adjust to compensate. The culture fo
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Success story: Sit first, dash seven
+--------------------------------------
+We were working on a nonprofit organization's website. This site needed to tell the story of the group, publish news, and get people involved with their events. 
+
+There was a reasonable budget and several roles on the team, including a designer. The designer was reviewing their wire frame designs with both the team and the client. 
+
+We got to the events calendar. On the events detail page, there was an innocuous button labeled "RSVP". RSVP is a request to reply to an invitation to an event. 
+
+Seems simple and yet, within events management, a reservation can mean lots of things: gathering details about the person, collecting fees, managing communication and a lot more. 
+
+This one button, which was logical to include, represented a lot of hidden work. We were building on an existing system, so why not use something off the shelf? Event management packages 
+existed, but were complex and required a lot of customization. The timeline prohibited this level of effort on a smaller project. We asked the responsible group, "What do you currently 
+use to manage your events?" Turns out they already had a third party event system that they've used for years. 
+
+They just wanted to link the main website to their system, which was reasonable. We read the event system manual and found that we could get a listing of events. Therefore, the work 
+required was to get and list events and link each event through the RSVP button to the third party site. Instead of building an event reservation system, we paused and asked questions. 
+
+Without understanding, we fulfilled the intent of the requirements. The effort to learn more and ask questions paid back in cost and effort savings. There is a Zen Koan, or a riddle, 
+which applies to the situation. "Sit first, dash seven." The longer form is, "First you sit, then seven directions you will run." What does this mean? Take a deep breath and calm 
+yourself, think and plan, then, take action. The wire frame required an event RSVP system. Instead of building one and wasting effort, we paused, learned, and planned, then took action. 
+
+Sit first, dash seven.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
