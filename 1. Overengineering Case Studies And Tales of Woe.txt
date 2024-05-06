@@ -143,6 +143,43 @@ it, so make an informed decision.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* The perfect storm for a culture of overengineering
+----------------------------------------------------
+An organization or group can unintentionally foster a culture of over-engineering. Where does over-engineering begin on a project? There's no one place where it starts and there's no 
+single role to fault. Requirements are necessary for any project and they can take many forms. There's business requirements, technical requirements, deadlines, and budgets. 
+
+Requirements are necessary to keep a project focused and successful. They can also cause trouble before any work begins if they're too prescriptive. 
+
+Requirements come from all levels of project leadership. Stakeholders, product owners, to technical leads and architects are all responsible. 
+
+A good requirement should detail the what, not how. For example, describing the requirements to clean a floor. One set of requirements requires a particular broom with a specific type of 
+synthetic bristles of given length, used a particular angle with so much pressure with a specific pattern for optimal and even coverage of all lateral surfaces, and the amount and grade 
+of grit expected to collect for measurement by weight, and eventual disposal into an approved receptacle. As an alternative, here's a broom and a dust pan. 
+
+Please sweep the floor until it's clean. Both sense of requirements specify tools and goals, and would result in a clean floor. One is long and difficult to understand. 
+
+One is too prescriptive and doesn't trust the person sweeping to know what they're doing. If followed without question, it'd take a sarcastic amount of time to complete. ♪ 
+Too many cooks ♪ ♪ Too many cooks ♪ The proverb too many cooks spoil the broth means if too many people are involved in a task, it won't be done well. 
+
+This applies to all levels of a project, from decisions to implementation. Meetings with too many people can drag and meander, wasting everybody's time. Too many stakeholders can lead to 
+scope creep, conflicting requirements, and priority confusion. Too many implementers can lead to chaos and waterfalling. 
+
+During the design phase, it's important to develop a vision to strive towards, yet a wire frame and nonfunctional mockup can make the work look too easy. 
+
+Great design, much like artistry and athleticism, makes exceptionalism look effortless. Make sure that the design pairs with a technical plan for implementation. 
+
+Include rough estimates for how long it will take to build. Sometimes a seemingly small design feature can account for a disproportionate amount of work. Likewise, design should review 
+any technical implementation to ensure the integrity of the vision. Last but not least is the implementation phase. 
+
+Well-intentioned engineers through ignorance and inexperience can create exquisite nightmares. Well-intentioned developers can also cause mayhem by creating unmaintainable, opaque, and 
+overly complex systems. Often, the excuse is the guise of job security. Another example of over-engineering implementation are beautifully abstracted systems of perfect inheritance, or 
+unified definitions such as constants or styles that take more time to maintain than to expand. Nobody plans on failure, but it's very easy to make a perfect and incomplete project. 
+
+I have been guilty of every single one of these behaviors and have shared their burden. Responsibility is both individual and shared from stakeholders to implementers. By acknowledging 
+how and why these situations happen, we can adjust to compensate. The culture for over-engineering can come from the entire team, and together, it can be overcome.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 
 
 
