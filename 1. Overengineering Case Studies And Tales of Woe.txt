@@ -59,6 +59,51 @@ great satires, we laugh as we learn.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Cautionary tale: Creative works
+---------------------------------
+In a skyscraper, a major transition in a publication focused on mass media was occurring. The publication's website used almost two dozen different content management systems. 
+
+The overhead of managing it all was causing chaos. The solution? One monolithic content management system. As part of the build, a migration from the old systems to the new was necessary. 
+
+Part of the document structure was a categorization system called creative works. The purpose was to relate content for easy navigation. The categories contained people, movies, music 
+bands, and so forth. There was a hierarchical relationship to the categories. For example, albums by a particular band would be under that band. 
+
+At one point, there was even a full-time librarian whose job was to manage the taxonomy. Two years prior, the librarian had left. So, the editors reverted to using flat tagging. 
+
+The new CMS was an opportunity by a product owner to clean up the taxonomy and bring back the hierarchy. The migration would remove the duplicates and misspellings, simplify and restore 
+order. So, we got to work. Data exports, spreadsheets of mapping, complex algorithms, and lots of tedious testing. We were most of the way through the hundreds of thousands of records, 
+then the product owner left the company. Turnover's normal. So, the team kept going. The work was completed and the site launched without incident. 
+
+After a few months, there was a problem. Nobody was using the new taxonomy. Editors preferred flat tagging, so that's what they used. It took weeks, if not months, to perfect the taxonomy 
+and nobody used it. What happened? The feature was important only to the product owner. Nobody asked the audience what they preferred. 
+
+In a professional deadline driven newsroom, what's the most efficient? The path of the most impact and the least resistance.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
