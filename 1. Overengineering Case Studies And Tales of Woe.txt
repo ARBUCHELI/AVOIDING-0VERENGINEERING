@@ -35,7 +35,29 @@ risk. Throughout this course, we'll explore some ways to figure out what's right
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* Rube Goldberg inventions satirized overengineering
+----------------------------------------------------
+Over-engineering is not a modern problem. In 1929, American cartoonist Rube Goldberg created an internationally known cartoon series named, "The Inventions of Professor Lucifer Gorgonzola 
+Butts." All knowing. Goldberg wrote, "In my cartoons, Professor Lucifer Gorgonzola Butts invented elaborate machines to accomplish such Herculean tasks as shining shoes, opening screen 
+doors, keeping moths out of clothes closets, retrieving soap in the bathtub, and other innocuous problems. 
 
+Only, instead of using the scientific elements of the laboratory, I added acrobatic monkeys, dancing mice, chattering false teeth, electric heels, whirling dervishes, and other 
+incongruous elements. In theory, all of these inventions would work, but were overblown to surreal and impossible proportions with a convoluted series of steps that stretched the 
+imagination." Here's an example from Rube Goldberg's sideshow from November 26th, 1939. 
+
+The weekly invention was a socially approved method of cooling hot soup. When hot soup touches your tongue you yell "ouch" and wake up a sleeping porcupine. A, quill's puncture water 
+filled paper bag, B, on a balancing scale. On the opposite side of the scale, the weight of a ball, C, opens a Jack in a box, D. 
+
+A wax head of a movie magnate, E, shoots out of the Jack in the box. And a yesman, F, starts nodding their head, causing a fan, G, to cool off the soup. The satirical impact could be 
+found in other mediums, including in his friend, Charlie Chaplin's 1936 film, "Modern Times." The movie featured a Rube Goldberg invention brought to life feeding Chaplin in an incredibly 
+memorable and over the top scene. In the 1940 short film, "Something for Nothing," Goldberg compares his outlandishly complicated inventions to real patents. 
+
+The example he gave was U.S. patent 556248, a saluting device from March, 1896. From the patent itself, this invention relates to a novel device for automatically affecting polite 
+salutations by the elevation and rotation of the hat on the head of the saluting party when said person bows to the person or person saluted, the actuation of the hat being produced by a 
+mechanism therein and without the use of the hands in any manner. The patent was granted. Rube Goldberg's satire highlights that over-engineering is not a modern problem. As with all 
+great satires, we laugh as we learn.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
