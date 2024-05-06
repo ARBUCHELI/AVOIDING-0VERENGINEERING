@@ -81,6 +81,70 @@ In a professional deadline driven newsroom, what's the most efficient? The path 
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* What causes overengineering?
+------------------------------
+There is no single thing that causes over-engineering. Like versions of truth and perspectives, over-engineering is visible in hindsight but hard to decipher in the moment. 
+
+There are some common root causes, many of which we're all guilty of. No shame is necessary. Our shared goal is to continue to improve both ourselves and those around us. 
+
+First is the need to do good things. We strive to help others around us. If someone is struggling, we should assist them to the best of our abilities. If someone asks for help, we're 
+there for them without question. That's where one of the problem arises, the lack of questioning. 
+
+If we do what someone asks without thinking about the result, then we can compound the problem. Next is pride in our work and our abilities. Someone says, "Can you do this thing?" "Of 
+course. I could do it in my sleep." Because it's not a problem and trivial to you, it's easy for everyone, right? "Of course, nothing to worry about. 
+
+Here's exactly what you asked for and some extra." Then when the recipient is overwhelmed, we're surprised. Restraint and reflection can help. Sometimes the problem is plain ignorance. 
+
+Ignorance is not a bad word. It only means lacking knowledge or information. I'm ignorant all the time and we are all ignorant. That's okay. What matters is how we make decisions given 
+our ignorance. Do we know enough to commit? Do we know the requirements? What are the risks? Should we do more research or are we confident? Are we being decisive or foolhardy? Knowing 
+that we are ignorant of something shouldn't prevent progress. Instead, make a calculated decision. Then there's the somebody else's problem situation. 
+
+Somebody told you to hop like a frog and you didn't even ask how high. If they asked for gigantic tires on this tiny car, then they'll get it because the customer is always right. 
+
+You may know something is wrong but you don't say anything and do it anyway. Or you do say something but your boss absorbs it and does nothing. That has the same effect. 
+
+The reality is that it's everybody's problem. The service providers, the clients, and the users. There's no one thing that causes over-engineering. Doing good things without asking if 
+they're necessary. Pridefulness in delivering the impossible. Ignorance of requirements and consequences. Lack of responsibility. 
+
+Being aware of these patterns is the first step in recognizing it before it becomes a problem. Finally, over-engineering can be fun. Wait, what? Yes, it can be glorious to over-engineer a 
+problem because you can. As I'm writing this course, I'm also working on an over-engineered text puzzle solver. The solver uses dictionaries, letter frequency analysis, and deductive 
+reasoning. It also defeats the exercise of doing the puzzle yourself as you learn and experiment. 
+
+And yet, I'm having fun debugging, adding automated tests, and writing a tool that nobody will ever use. Over-engineering on purpose can be fun as a hobby or practical if working on 
+safety or medical devices.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
