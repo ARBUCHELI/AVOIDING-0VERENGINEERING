@@ -19,3 +19,48 @@ What did they need? Probably just a social media page. At the end of the day, th
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+* What is overengineering?
+--------------------------
+According to Wikipedia in 2022, over-engineering is, quote, "The act of designing a product or providing a solution to a problem in an elaborate or complicated manner, where a simpler 
+solution exists with the same efficiency and effectiveness as that of the original design." 
+
+Practically. Over-engineering is the opposite of the KISS principle, an acronym for keep it simple, silly. So, why make something more complicated than it needs to be? Often, 
+over-engineering is in the service of safety. "Whose safety?" you might ask. In the case of a car, the answer is obvious: Everybody. 
+
+This includes the car's occupants, pedestrians, other drivers, the car itself, even the companies that built the car. In the case of software, what is safe? It depends on the project, 
+their requirements, and the audience. There are times where less is more. There are times when it's necessary to overbuild with caution. 
+
+If your software involves health, finance, personal information, security and so forth, then you need to be careful. Be aware of the applicable standards for your industry and exposure to 
+risk. Throughout this course, we'll explore some ways to figure out what's right for your project. You too can recognize when something is over-engineered.
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
